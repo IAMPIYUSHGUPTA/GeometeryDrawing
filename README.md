@@ -1,2 +1,0 @@
-# GeometeryDrawing
-Make a diagram
